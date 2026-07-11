@@ -24,14 +24,18 @@ Computer Engineering student focused on building **mobile and desktop applicatio
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **Languages**
+
+<div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+</div>
+
 **Frameworks & Tools**
+
+<div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
