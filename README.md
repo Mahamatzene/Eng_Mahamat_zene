@@ -61,7 +61,3 @@ Computer Engineering student focused on building **mobile and desktop applicatio
 <br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=Mahamatzene&label=Profile+Views&color=0175C2&style=flat-square)
 </div>
-
-
-
-في شيئ لازم اعدله؟
