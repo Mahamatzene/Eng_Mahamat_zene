@@ -48,8 +48,6 @@ Computer Engineering student focused on building **mobile and desktop applicatio
 | [🎮 Math Game](https://github.com/Mahamatzene) | Difficulty-scaled math quiz game to sharpen mental arithmetic | `C++` |
 | [✂️ Stone Paper Scissors](https://github.com/Mahamatzene) | Classic game with computer AI, score tracking, and replay support | `C++` |
 
-> 📌 Replace each link with your actual repository URL.
-
 ---
 
 ## 📈 GitHub Stats
