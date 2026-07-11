@@ -49,12 +49,16 @@ Computer Engineering student focused on building **mobile and desktop applicatio
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 | Project | Description | Tech |
 |--------|-------------|------|
 | [📊 Algorithms & Problem Solving](https://github.com/Mahamatzene) | C++ solutions covering core algorithmic concepts and problem-solving patterns | `C++` |
 | [🏦 Bank Management System](https://github.com/Mahamatzene) | Console-based system for managing client accounts, deposits, and transactions | `C++` |
 | [🎮 Math Game](https://github.com/Mahamatzene) | Difficulty-scaled math quiz game to sharpen mental arithmetic | `C++` |
 | [✂️ Stone Paper Scissors](https://github.com/Mahamatzene) | Classic game with computer AI, score tracking, and replay support | `C++` |
+
+</div>
 
 ---
 
