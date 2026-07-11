@@ -24,6 +24,8 @@ Computer Engineering student focused on building **mobile and desktop applicatio
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -36,6 +38,8 @@ Computer Engineering student focused on building **mobile and desktop applicatio
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
