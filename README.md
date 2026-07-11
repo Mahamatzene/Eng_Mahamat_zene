@@ -1,6 +1,6 @@
 <div align="center">
 
-# `< Zain Mahamatzene />`
+# `< Mahamat zene />`
 
 ### Computer Engineering · Flutter & C++ Developer
 
